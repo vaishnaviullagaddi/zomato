@@ -1,0 +1,17 @@
+div{
+    color:yellow;
+    background-color:blueviolet;
+    border:4px solid pink;
+}
+h3{
+    color:pink;
+    background-color:violet;
+    border:4px dotted green;
+
+}
+h5{
+    color:brown;
+    background-color:yellow;
+    border:4px dashed orange;
+
+}
